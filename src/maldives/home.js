@@ -242,34 +242,9 @@ function MainImage({ images }) {
                  </p>
          
                  <div >
-                 <Link className="
-            mt-7
-            rounded-xl
-            border
-            border-white/40
-            bg-cyan-700/70
-            px-6
-            py-3
-            text-sm
-            font-semibold
-            tracking-wide
-            text-white
-            shadow-lg
-            backdrop-blur-sm
-            transition-all
-            duration-300
-            hover:scale-105
-            hover:bg-cyan-600
-            hover:shadow-2xl
-
-            sm:px-8
-            sm:py-3.5
-            sm:text-base
-
-          "
-                   to="/places"
-                   
-                 >
+               <Link className=" mt-7  rounded-xl  border  border-white/40  bg-cyan-700/70  px-6  py-3 text-sm font-semibold  tracking-wide text-white  shadow-lg  backdrop-blur-sm  transition-all duration-300  hover:scale-105 hover:bg-cyan-600
+                        hover:shadow-2xl  sm:px-8  sm:py-3.5  sm:text-base" to="/places">
+           
                    Explore Our Islands
                  </Link>
          
