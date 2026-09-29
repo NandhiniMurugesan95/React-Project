@@ -1,0 +1,87 @@
+{
+"image":[
+  {
+    "id": 1,
+    "imgSrc": "/images/contact/main.png",
+    "alt": "Carousel Image 1"
+    
+  }
+],
+    "contactInfo":{
+    "details": [
+      {
+        "icon": "📍",
+        "title": "Our Location",
+        "text": "Malé, Maldives",
+        "subText": "Republic of Maldives"
+      },
+      {
+        "icon": "📞",
+        "title": "Phone",
+        "text": "+960 330 1234",
+        "subText": "Mon – Sun, 9:00 AM – 6:00 PM GMT"
+      },
+      {
+        "icon": "✉️",
+        "title": "Email",
+        "text": "hello@coralmaldives.com",
+        "subText": "support@coralmaldives.com"
+      }
+    ],
+
+    "socialTitle": "Follow Us",
+    "socials": [
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Twitter"
+    ]
+    },
+    "contactForm":{
+    "fields": [
+      {
+        "name": "name",
+        "label": "Your Name",
+        "type": "text",
+        "placeholder": "Enter your name"
+      },
+      {
+        "name": "email",
+        "label": "Your Email",
+        "type": "email",
+        "placeholder": "Enter your email"
+      },
+      {
+        "name": "phone",
+        "label": "Your Phone Number",
+        "type": "tel",
+        "placeholder": "Enter your phone number"
+      },
+      {
+        "name": "subject",
+        "label": "Subject",
+        "type": "text",
+        "placeholder": "Enter subject"
+      },
+      {
+        "name": "message",
+        "label": "Your Message",
+        "type": "textarea",
+        "placeholder": "Write your message..."
+        
+      }
+    ]
+    },
+    
+
+
+  "mapSection": [
+    {
+    
+   
+    
+
+    "mapUrl": "https://www.google.com/maps?q=Male,Maldives&output=embed"
+    }
+  ]
+  }

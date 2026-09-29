@@ -1,0 +1,375 @@
+{
+"image":[
+  {
+    "id": 1,
+    "imgSrc": "/images/shopping/carousel_1.jpg",
+    "alt": "Carousel Image 1"
+    
+  },
+  {
+    "id": 2,
+    "imgSrc": "/images/shopping/carousel_2.jpg",
+    "alt": "Carousel Image 2"
+  } 
+],
+"buy":[
+  {
+  "id": 1,
+  "image": "/images/shopping/traditional.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Traditional Handicrafts",
+    "description":"Handmade decorative items and local crafts "
+},
+{
+  "id": 2,
+  "image": "/images/shopping/cloth.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Local Clothing",
+    "description":"Handmade decorative items and local crafts "
+},
+{
+  "id": 3,
+  "image": "/images/shopping/coconut.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Coconut Products",
+    "description":"Coconut-based handmade products"
+},
+{
+  "id": 4,
+  "image": "/images/shopping/wood.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Wooden Crafts",
+    "description":"Hand-carved decorative pieces "
+},
+{
+  "id": 5,
+  "image": "/images/shopping/Gifts.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Souvenirs & Gifts",
+    "description":"Small gifts and Maldives-themed keepsakes"
+},
+{
+  "id": 6,
+  "image": "/images/shopping/weaving.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Local Art & Weaving",
+    "description":"Traditional woven mats and handmade items "
+},
+{
+  "id": 7,
+  "image": "/images/shopping/Crafts.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Local Food Products",
+    "description":"Dried fruits, spices and other packaged local specialties"
+}
+],
+"place":[
+  {
+    "id": 1,
+    "name": "Malé Local Market",
+    "description": "A vibrant market where you can find fresh produce, local snacks, souvenirs, and handmade items.",
+    "location": "Malé City",
+    "image": "/images/shopping/male.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Majeedhee Magu",
+    "description": "The main shopping street of Malé, filled with boutiques, souvenir shops, and local brands.",
+    "location": "Malé City",
+    "image": "/images/shopping/Majeedhee.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chaandhanee Magu",
+    "description": "A lively shopping street known for local shops, cafés, boutiques, and traditional products.",
+    "location": "Malé City",
+    "image": "/images/shopping/Chaandhanee.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Local Island Shops",
+    "description": "Explore small island shops offering handmade crafts, local products, and authentic souvenirs.",
+    "location": "Local Islands",
+    "image": "/images/shopping/local.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Resort Boutiques",
+    "description": "Discover stylish clothing, accessories, artwork, and unique gift items at resort boutiques.",
+    "location": "Maldives Resorts",
+    "image": "/images/shopping/Boutiques.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Souvenir Shops",
+    "description": "Find Maldives-themed souvenirs, magnets, T-shirts, jewellery, handicrafts, and more.",
+    "location": "Across Maldives",
+    "image": "/images/shopping/Souvenir.jpg"
+  }
+],
+  "traditional": [
+    {
+      "id": 1,
+      "title": "Thundi Kunaa",
+      "subtitle": "Woven With Tradition",
+      "description": "Handwoven mats made from palm leaves. A cultural symbol of Maldives.",
+      "image": "/images/shopping/Thundu kunaa.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lacquer Work",
+      "subtitle": "A Touch of Island Elegance",
+      "description": "Beautiful lacquer pieces inspired by nature, decorated with delicate patterns.",
+      "image": "/images/shopping/Lacquer Ware.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Palm Weaving",
+      "subtitle": "Weaving Stories, Creating Beauty",
+      "description": "From baskets to decorative pieces, handwoven with natural palms passed down through generations.",
+      "image": "/images/shopping/palm.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Wood Carving",
+      "subtitle": "Inspired by Nature",
+      "description": "Hand-carved wooden pieces that showcase the talent and tradition of Maldivian artisans.",
+      "image": "/images/shopping/wood_1.jpg"
+    }
+  ],
+  "coconut": [
+    {
+      "title": "Coconut Oil",
+      "description": "Pure, natural oil made from fresh coconuts.",
+      "image": "/images/shopping/oil.jpg"
+    },
+    {
+      "title": "Coconut Handmade Soap",
+      "description": "Gentle handmade soap with natural coconut goodness.",
+      "image": "/images/shopping/soap.jpg"
+    },
+    {
+      "title": "Coconut Shell Crafts",
+      "description": "Beautiful decorative items made from coconut shells.",
+      "image": "/images/shopping/shell.jpg"
+    },
+    {
+      "title": "Coconut Honey",
+      "description": "A naturally sweet island delicacy with a rich coconut flavor.",
+      "image": "/images/shopping/honey.jpg"
+    }
+  ],
+  "woodcrafts": [
+    {
+      "title": "Wooden Dhoni Models",
+      "description": "Miniature traditional boats inspired by Maldivian fishing dhonis.",
+      "image": "/images/shopping/dhoni.jpg"
+    },
+    {
+      "title": "Carved Wooden Boxes",
+      "description": "Hand-carved boxes featuring traditional island patterns.",
+      "image": "/images/shopping/box.jpg"
+    },
+    {
+      "title": "Wooden Decorative Figures",
+      "description": "Artistic handmade pieces inspired by Maldivian culture.",
+      "image": "/images/shopping/figure.jpg"
+    },
+    {
+      "title": "Carved Serving Trays",
+      "description": "Beautiful wooden trays crafted with natural island designs.",
+      "image": "/images/shopping/trays.jpg"
+    }
+  ],
+  "local": [
+    {
+      "title": "Maldivian Island Paintings",
+      "description": "Paintings inspired by Maldivian islands, beaches and everyday life.",
+      "image": "/images/shopping/painting.jpg"
+    },
+    {
+      "title": "Shell-Inspired Art",
+      "description": "Decorative artwork inspired by the colours and beauty of the ocean.",
+      "image": "/images/shopping/shell Crafts.jpg"
+    },
+    {
+      "title": "Hand-Painted Souvenirs",
+      "description": "Small handmade artworks featuring local island scenes.",
+      "image": "/images/shopping/hand_paint.jpg"
+    },
+    {
+      "title": "Ocean-Inspired Decor",
+      "description": "Artistic decorative pieces inspired by coral reefs and marine life.",
+      "image": "/images/shopping/decor.jpg"
+    }
+  ],
+   "special": [
+    {
+      "id": 1,
+      "title": "Authentic & Handmade",
+      "description": "Every piece is crafted with care by local artisans using traditional techniques passed down through generations.",
+      "icon": "🤲"
+    },
+    {
+      "id": 2,
+      "title": "Sustainable & Eco-Friendly",
+      "description": "Made from natural, locally sourced materials that respect nature and support a greener planet.",
+      "icon": "🌿"
+    },
+    {
+      "id": 3,
+      "title": "Rich in Culture & Heritage",
+      "description": "Inspired by Maldivian culture, traditions and the beauty of our islands and ocean.",
+      "icon": "🏺"
+    },
+    {
+      "id": 4,
+      "title": "Meaningful Memories",
+      "description": "Unique treasures that let you take a piece of Maldives home and cherish forever.",
+      "icon": "🛍️"
+    }
+  ],
+  "tips": [
+    {
+      "id": 1,
+      "title": "Compare Prices",
+      "description": "Check prices at different shops before buying.",
+      "icon": "🏷️"
+    },
+    {
+      "id": 2,
+      "title": "Bargain Politely",
+      "description": "Try friendly bargaining in local markets.",
+      "icon": "🤝"
+    },
+    {
+      "id": 3,
+      "title": "Carry Local Currency",
+      "description": "Keep some Maldivian Rufiyaa for small purchases.",
+      "icon": "💵"
+    },
+    {
+      "id": 4,
+      "title": "Choose Local",
+      "description": "Look for authentic handmade island products.",
+      "icon": "🛍️"
+    },
+    {
+      "id": 5,
+      "title": "Check Quality",
+      "description": "Check the quality and make sure it is worth your money.",
+      "icon": "🏅"
+    },
+    {
+      "id": 6,
+      "title": "Ask Before You Click",
+      "description": "Always ask for permission before taking photos in local shops.",
+      "icon": "📷"
+    },
+    {
+      "id": 7,
+      "title": "Pack Carefully",
+      "description": "Protect fragile souvenirs in your luggage.",
+      "icon": "📦"
+    },
+    {
+      "id": 8,
+      "title": "Keep Your Receipts",
+      "description": "Keep bills and receipts for any returns or exchanges.",
+      "icon": "🧾"
+    },
+    {
+      "id": 9,
+      "title": "Respect Marine Life",
+      "description": "Avoid buying protected coral or marine-life items.",
+      "icon": "🌊"
+    }
+  ],
+   "notToBuy": {
+    "title": "WHAT NOT TO BUY",
+    "subtitle": "Help protect our islands, marine life and natural heritage.",
+    "items": [
+      {
+        "id": 1,
+        "title": "PROTECTED CORAL",
+        "description": "Avoid buying natural coral pieces that may be protected.",
+        "image": "/images/shopping/coral.jpg"
+      },
+      {
+        "id": 2,
+        "title": "SHELLS & MARINE-LIFE ITEMS",
+        "description": "Be careful with products made from protected marine life.",
+        "image": "/images/shopping/shells.jpg"
+      },
+    
+      {
+        "id": 3,
+        "title": "ILLEGAL WILDLIFE PRODUCTS",
+        "description": "Never purchase items made from protected animals or wildlife.",
+        "image": "/images/shopping/turtoise.jpg"
+      },
+      {
+        "id": 4,
+        "title": "UNVERIFIED SOUVENIRS",
+        "description": "Choose authentic locally made products instead of questionable items.",
+        "image": "/images/shopping/bag.jpg"
+      },
+      {
+        "id": 5,
+        "title": "RESTRICTED ITEMS",
+        "description": "Check Maldivian customs and airline rules before carrying unusual souvenirs home.",
+        "image": "/images/shopping/restricted.jpg"
+      }
+    ]
+  },
+  "searchFor": {
+    "title": "WHAT TO SEARCH FOR",
+    "subtitle": "Look for authentic, local and handmade treasures.",
+    "items": [
+      {
+        "id": 1,
+        "title": "HANDMADE MALDIVIAN CRAFTS",
+        "description": "Traditional handmade items created by local artisans.",
+        "image": "/images/shopping/search_1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "THUNDU KUNAA",
+        "description": "Traditional woven mats with beautiful patterns.",
+        "image": "/images/shopping/Thundu Kunaa.jpg"
+      },
+      {
+        "id": 3,
+        "title": "LACQUER WORK",
+        "description": "Decorative handcrafted items featuring traditional Maldivian craftsmanship.",
+        "image":  "/images/shopping/Lacquer Ware.jpg"
+    
+      },
+      {
+        "id": 4,
+        "title": "COCONUT CRAFTS",
+        "description": "Unique handmade products created from coconut materials.",
+        "image": "/images/shopping/search_2.jpg"
+      },
+      {
+        "id": 5,
+        "title": "LOCAL ARTWORK",
+        "description": "Paintings and artistic pieces inspired by Maldivian islands.",
+        "image": "/images/shopping/search_3.jpg"
+      },
+      {
+        "id": 6,
+        "title": "TRADITIONAL SOUVENIRS",
+        "description": "Small locally made gifts that capture the spirit of the Maldives.",
+        "image": "/images/shopping/search_4.jpg"
+      }
+    ]
+  },
+  "footer": {
+    "message": "Shop Smart. Take Home Memories, Not Trouble."
+  }
+}
+  
+         
+      
+    

@@ -1,0 +1,50 @@
+{
+  "section":[ 
+  {
+    "subtitle": "A JOURNEY THROUGH TIME",
+    "title": "The Story Behind the Islands",
+    "imgSrc":"/images/history/main_1.jpg"
+    
+  }
+],
+"ancient": [
+    {
+  "id": 1,
+  "image": "/images/history/ancient_2.jpg",
+  "alt": "Carousel Image 1",
+  "description": " The Maldives, officially the Republic of Maldives,[d] and historically known as the Maldive Islands, is an archipelagic country in South Asia, located in the Indian Ocean, near the southeastern boundary of the Arabian Sea. The Maldives is located southwest of India and Sri Lanka, about 750 kilometres (470 miles; 400 nautical miles) from the Asian continent's mainland. The Maldives' chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north to Addu Atoll in the south.The Maldives is the smallest country in Asia. Its land area is only 298 square kilometres (115 sq mi), but this is spread over roughly 90,000 square kilometres (35,000 sq mi) of the sea, making it one of the world's most spatially dispersed sovereign states. With a population of 515,132 in the 2022 census, it is the second least populous country in Asia and the ninth-smallest country by area, but also one of the most densely populated countries. The Maldives has an average ground-level elevation of around 1.5 metres (4 ft 11 in) above sea level,[7] and a highest natural point of only 2.4 metres (7 ft 10 in), making it the world's lowest-lying country. Some sources state the highest point, Mount Villingili, as 5.1 metres or 17 feet.[7].Malé is the capital and the most populated city, traditionally called the 'King's Island', where the ancient royal dynasties ruled from its central location.[8] The Maldives has been inhabited for over 2,500 years. Documented contact with the outside world began around 947 AD when Arab travellers began visiting the islands. In the 12th century, partly due to the importance of the Arabs and Persians as traders in the Indian Ocean, Islam reached the Maldivian Archipelago.[9] The Maldives was soon consolidated as a sultanate, developing strong commercial and cultural ties with Asia and Africa. From the mid-16th century, the region came under the increasing influence of European colonial powers, with the Maldives becoming a British protectorate in 1887. Independence from the United Kingdom came in 1965, and a presidential republic was established in 1968 with an elected People's Majlis. The ensuing decades have seen political instability, efforts at democratic reform,[10] and environmental challenges posed by climate change and rising sea levels. The Maldives became a founding member of the South Asian Association for Regional Cooperation (SAARC)."
+}
+  ],
+  "islamic": [
+    {
+  "id": 1,
+  "image": "/images/history/islamic_1.jpg",
+  "alt": "Carousel Image 1",
+  "description": "The Maldives lies in the middle of the Indian Ocean. Historically, it was famous for the cowry trade and as a transit point for seafarers crossing from East to West and vice versa. The initial settlers were from India, Sri Lanka, East Africa, Arabia, Persia and the western parts of the Malay Archipelago.The Maldives boasts a cultural fusion with a history that extends to 300 BCE, and an interesting interaction between different religions and importantly between Buddhism and Islam. The local people practiced Buddhism until the conversion Islam in 1153 CE.Construction in ancient Maldives was mainly dependent on the local availability of materials. Coral stone and timber were the only long lasting materials available and coral stone became the primary building material for monumental buildings.Live reef coral boulders or Porite corals are removed from the seabed, cut to stone blocks while they are soft and air-dried-before it gets used for construction. They were highly suitable for architectural and sculptural works. Coral stone construction methods or coral carpentry existed as early as the Buddhist period and continued until the introduction of masonry in the late 18th century.Coral stone mosques were most outstanding in their design, decoration and grandness. The walls of the mosques are built of finely shaped interlocking coral blocks. The amount of detail and decoration that goes into these buildings simply displays the extent of the skill of the local people.It can be concluded that stone construction in Maldives became more refined during the Islamic period and the stone building and especially stone carving techniques of the east African Swahili region influenced the already developed techniques of the Buddhist period. It is the fusion of these cultures that led to the emergence of new techniques which is seen in the coral stone mosques in Maldives."
+}
+  ],
+   "Sultante": [
+    {
+  "id": 1,
+  "image": "/images/history/Sultanate.jpg",
+  "alt": "Carousel Image 1",
+"description":"The Sultanate of the Maldive Islands[4] was an Islamic monarchy that controlled the Maldives for over eight centuries (1153–1968), with one interruption from 1953–1954.Maldives was a Buddhist kingdom until its last monarch, King Dhovemi, converted to Islam in the year 1153; thereafter he also adopted the Muslim title and name of Sultan Muhammad al-Adil. Six dynasties would rule over the Maldives until the sultanate become elective in 1932.From the 16th century, the sultanate increasingly came under European influence, starting with a 15-year period of Portuguese rule. After the expulsion of the Portuguese, the Maldives became subject to Dutch hegemony before finally becoming a British protected state in 1796.[a] Following an abortive attempt at forming a republic in 1953, the emergence of a short-lived breakaway state, and the establishment of independence from the United Kingdom, the sultanate was abolished following a successful referendum in 1968, and the Maldives became a republic."
+    }  
+],
+ "Colonial": [
+    {
+  "id": 1,
+  "image": "/images/history/colonial.jpg",
+  "alt": "Carousel Image 1",
+"description":"The Sultanate of the Maldive Islands[4] was an Islamic monarchy that controlled the Maldives for over eight centuries (1153–1968), with one interruption from 1953–1954.Maldives was a Buddhist kingdom until its last monarch, King Dhovemi, converted to Islam in the year 1153; thereafter he also adopted the Muslim title and name of Sultan Muhammad al-Adil. Six dynasties would rule over the Maldives until the sultanate become elective in 1932.From the 16th century, the sultanate increasingly came under European influence, starting with a 15-year period of Portuguese rule. After the expulsion of the Portuguese, the Maldives became subject to Dutch hegemony before finally becoming a British protected state in 1796.[a] Following an abortive attempt at forming a republic in 1953, the emergence of a short-lived breakaway state, and the establishment of independence from the United Kingdom, the sultanate was abolished following a successful referendum in 1968, and the Maldives became a republic."
+    }  
+],
+"modern": [
+    {
+  "id": 1,
+  "image": "/images/history/modern.jpg",
+  "alt": "Carousel Image 1",
+"description":"The Maldives,[c] officially the Republic of Maldives,[d] and historically known as the Maldive Islands, is an archipelagic country in South Asia, located in the Indian Ocean, near the southeastern boundary of the Arabian Sea. The Maldives is located southwest of India and Sri Lanka, about 750 kilometres (470 miles; 400 nautical miles) from the Asian continent's mainland. The Maldives' chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north to Addu Atoll in the south.The Maldives is the smallest country in Asia. Its land area is only 298 square kilometres (115 sq mi), but this is spread over roughly 90,000 square kilometres (35,000 sq mi) of the sea, making it one of the world's most spatially dispersed sovereign states. With a population of 515,132 in the 2022 census, it is the second least populous country in Asia and the ninth-smallest country by area, but also one of the most densely populated countries. The Maldives has an average ground-level elevation of around 1.5 metres (4 ft 11 in) above sea level,[7] and a highest natural point of only 2.4 metres (7 ft 10 in), making it the world's lowest-lying country. Some sources state the highest point, Mount Villingili, as 5.1 metres or 17 feet.[7]"  }  
+]
+}
+

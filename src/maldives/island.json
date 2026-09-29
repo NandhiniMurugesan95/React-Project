@@ -1,0 +1,447 @@
+
+
+    [
+  {
+    "id": "arah",
+    "name": "Arah",
+    "title": "Arah Island",
+    "image": "/images/arah.jpg",
+    "rating": "4.6",
+    "reviews": "223",
+    "about": "Arah Island is a peaceful tropical escape surrounded by crystal-clear turquoise waters, white sandy beaches and beautiful tropical greenery. It is a perfect destination for travelers looking for relaxation, nature and unforgettable island experiences.",
+    "stays": [
+      {
+        "title": "Beach Villa",
+        "image": "/images/arah-beach-villa.jpg",
+        "description": "Enjoy a comfortable villa with direct access to the beautiful beach."
+      },
+      {
+        "title": "Pool Villa",
+        "image": "/images/arah-pool-villa.jpg",
+        "description": "Relax in a private pool surrounded by tropical island scenery."
+      },
+      {
+        "title": "Overwater Villa",
+        "image": "/images/arah-overwater.jpg",
+        "description": "Stay above the turquoise lagoon with beautiful ocean views."
+      }
+    ],
+    "dining": [
+      "All-Day Dining Restaurant",
+      "Fresh Seafood Restaurant",
+      "Beachside Dining",
+      "Private Sunset Dinner"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Scuba Diving",
+      "Water Sports",
+      "Dolphin Cruise",
+      "Fishing",
+      "Sandbank Trip"
+    ],
+    "highlights": [
+      {
+        "title": "White Sand Beach",
+        "image": "/images/arah-beach.jpg",
+        "description": "Relax on a beautiful white sandy beach surrounded by turquoise water."
+      },
+      {
+        "title": "Crystal Clear Lagoon",
+        "image": "/images/arah-lagoon.jpg",
+        "description": "Enjoy the peaceful beauty of the clear blue lagoon."
+      },
+      {
+        "title": "House Reef",
+        "image": "/images/arah-reef.jpg",
+        "description": "Discover colorful marine life around the island reef."
+      },
+      {
+        "title": "Sunset Views",
+        "image": "/images/arah-sunset.jpg",
+        "description": "Enjoy beautiful tropical sunsets beside the ocean."
+      }
+    ],
+    "spa": [
+      "Spa Treatments",
+      "Beach Massage",
+      "Yoga",
+      "Meditation"
+    ],
+    "howToReach": "Arah Island can be reached from Velana International Airport by a resort-arranged speedboat or seaplane transfer.",
+    "location": "Maldives",
+    "type": "Private Island",
+    "accommodation": "Beach & Water Villas",
+    "transfer": "Speedboat / Seaplane"
+  },
+
+  {
+    "id": "biyadhoo",
+    "name": "Biyadhoo Island",
+    "title": "Biyadhoo Island",
+    "image": "/images/biyadhoo.jpg",
+    "rating": "3.6",
+    "reviews": "4578",
+    "about": "Biyadhoo Island is surrounded by beautiful tropical vegetation, clear lagoon waters and colorful marine life. It is a relaxing destination for travelers who enjoy beaches, snorkeling and underwater adventures.",
+    "stays": [
+      {
+        "title": "Beach Room",
+        "image": "/images/biyadhoo-stay.jpg",
+        "description": "Enjoy a comfortable stay close to the tropical beach."
+      },
+      {
+        "title": "Garden Accommodation",
+        "image": "/images/biyadhoo-garden.jpg",
+        "description": "Stay surrounded by lush tropical greenery."
+      },
+      {
+        "title": "Beach Villa",
+        "image": "/images/biyadhoo-villa.jpg",
+        "description": "Relax in a beachside accommodation near the lagoon."
+      }
+    ],
+    "dining": [
+      "Island Restaurant",
+      "Seafood Dining",
+      "Beach Dining",
+      "Tropical Bar"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Scuba Diving",
+      "Kayaking",
+      "Fishing",
+      "Dolphin Watching",
+      "Island Excursions"
+    ],
+    "highlights": [
+      {
+        "title": "Tropical Beach",
+        "image": "/images/biyadhoo-beach.jpg",
+        "description": "Enjoy the peaceful tropical beach and clear lagoon."
+      },
+      {
+        "title": "Marine Life",
+        "image": "/images/biyadhoo-reef.jpg",
+        "description": "Explore colorful marine life beneath the clear waters."
+      },
+      {
+        "title": "Palm Trees",
+        "image": "/images/biyadhoo-palm.jpg",
+        "description": "Walk through beautiful tropical greenery."
+      },
+      {
+        "title": "Lagoon",
+        "image": "/images/biyadhoo-lagoon.jpg",
+        "description": "Relax beside the calm turquoise lagoon."
+      }
+    ],
+    "spa": [
+      "Massage",
+      "Relaxation Treatments",
+      "Yoga",
+      "Wellness Activities"
+    ],
+    "howToReach": "Biyadhoo Island can be reached from Velana International Airport using resort-arranged boat transfers.",
+    "location": "South Malé Atoll",
+    "type": "Private Island",
+    "accommodation": "Beach Accommodation",
+    "transfer": "Boat Transfer"
+  },
+
+  {
+    "id": "ambara",
+    "name": "Ambara Island",
+    "title": "Ambara Island",
+    "image": "/images/ambara.jpg",
+    "rating": "4.8",
+    "reviews": "468",
+    "about": "Ambara Island offers a peaceful tropical environment with turquoise waters, beautiful beaches and stunning ocean scenery.",
+    "stays": [
+      {
+        "title": "Beach Villa",
+        "image": "/images/ambara-villa.jpg",
+        "description": "Stay close to the beach with beautiful lagoon views."
+      },
+      {
+        "title": "Pool Villa",
+        "image": "/images/ambara-pool.jpg",
+        "description": "Enjoy a private pool surrounded by tropical scenery."
+      },
+      {
+        "title": "Water Villa",
+        "image": "/images/ambara-water.jpg",
+        "description": "Experience peaceful lagoon views from a water villa."
+      }
+    ],
+    "dining": [
+      "Ocean Restaurant",
+      "Fresh Seafood",
+      "Private Beach Dinner",
+      "Sunset Bar"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Diving",
+      "Kayaking",
+      "Sunset Cruise",
+      "Fishing",
+      "Dolphin Watching"
+    ],
+    "highlights": [
+      {
+        "title": "Turquoise Lagoon",
+        "image": "/images/ambara-lagoon.jpg",
+        "description": "Swim and relax in the beautiful clear lagoon."
+      },
+      {
+        "title": "Private Beach",
+        "image": "/images/ambara-beach.jpg",
+        "description": "Enjoy peaceful moments on the island beach."
+      },
+      {
+        "title": "Ocean Views",
+        "image": "/images/ambara-ocean.jpg",
+        "description": "Enjoy beautiful views across the Indian Ocean."
+      },
+      {
+        "title": "Sunset",
+        "image": "/images/ambara-sunset.jpg",
+        "description": "Watch the sun go down over the tropical horizon."
+      }
+    ],
+    "spa": [
+      "Full Body Massage",
+      "Facial Treatments",
+      "Yoga",
+      "Meditation"
+    ],
+    "howToReach": "Ambara Island can be accessed from Velana International Airport through a resort-arranged transfer.",
+    "location": "Maldives",
+    "type": "Private Island",
+    "accommodation": "Beach & Water Villas",
+    "transfer": "Speedboat / Seaplane"
+  },
+
+  {
+    "id": "fotteyo",
+    "name": "Fotteyo Island",
+    "title": "Fotteyo Island",
+    "image": "/images/fotteyo.jpg",
+    "rating": "3.9",
+    "reviews": "789",
+    "about": "Fotteyo Island is known for its beautiful lagoon, tropical surroundings and peaceful atmosphere.",
+    "stays": [
+      {
+        "title": "Beach Villa",
+        "image": "/images/fotteyo-villa.jpg",
+        "description": "A comfortable beachside stay surrounded by tropical scenery."
+      },
+      {
+        "title": "Garden Villa",
+        "image": "/images/fotteyo-garden.jpg",
+        "description": "Enjoy a peaceful stay among tropical plants."
+      },
+      {
+        "title": "Lagoon Villa",
+        "image": "/images/fotteyo-lagoon.jpg",
+        "description": "Wake up to beautiful views of the island lagoon."
+      }
+    ],
+    "dining": [
+      "Island Restaurant",
+      "Seafood Grill",
+      "Beach Lunch",
+      "Sunset Dinner"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Diving",
+      "Swimming",
+      "Fishing",
+      "Kayaking",
+      "Sandbank Excursion"
+    ],
+    "highlights": [
+      {
+        "title": "Blue Lagoon",
+        "image": "/images/fotteyo-lagoon-view.jpg",
+        "description": "Enjoy the peaceful blue lagoon surrounding the island."
+      },
+      {
+        "title": "Tropical Beach",
+        "image": "/images/fotteyo-beach.jpg",
+        "description": "Relax on the beautiful sandy beach."
+      },
+      {
+        "title": "Palm Trees",
+        "image": "/images/fotteyo-palm.jpg",
+        "description": "Experience the tropical beauty of the island."
+      },
+      {
+        "title": "Ocean Life",
+        "image": "/images/fotteyo-reef.jpg",
+        "description": "Explore the underwater world surrounding the island."
+      }
+    ],
+    "spa": [
+      "Island Massage",
+      "Yoga",
+      "Meditation",
+      "Wellness Treatments"
+    ],
+    "howToReach": "Fotteyo Island can be reached through resort-arranged transfers from Velana International Airport.",
+    "location": "Maldives",
+    "type": "Private Island",
+    "accommodation": "Beach & Garden Villas",
+    "transfer": "Boat Transfer"
+  },
+
+  {
+    "id": "hanifaru",
+    "name": "Hanifaru Island",
+    "title": "Hanifaru Island",
+    "image": "/images/hanifaru.jpg",
+    "rating": "3.8",
+    "reviews": "654",
+    "about": "Hanifaru Island is surrounded by beautiful tropical scenery and clear ocean waters. It is an excellent destination for travelers who love marine adventures and peaceful island experiences.",
+    "stays": [
+      {
+        "title": "Beach Villa",
+        "image": "/images/hanifaru-villa.jpg",
+        "description": "Enjoy a comfortable stay just steps away from the beach."
+      },
+      {
+        "title": "Pool Villa",
+        "image": "/images/hanifaru-pool.jpg",
+        "description": "Relax in your private pool surrounded by tropical nature."
+      },
+      {
+        "title": "Water Villa",
+        "image": "/images/hanifaru-water.jpg",
+        "description": "Experience beautiful ocean views from your water villa."
+      }
+    ],
+    "dining": [
+      "All-Day Restaurant",
+      "Seafood Grill",
+      "Beach Restaurant",
+      "Sunset Bar"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Diving",
+      "Manta Ray Excursion",
+      "Dolphin Cruise",
+      "Kayaking",
+      "Fishing"
+    ],
+    "highlights": [
+      {
+        "title": "Lagoon",
+        "image": "/images/hanifaru-lagoon.jpg",
+        "description": "Enjoy clear blue water and beautiful lagoon scenery."
+      },
+      {
+        "title": "Beach",
+        "image": "/images/hanifaru-beach.jpg",
+        "description": "Relax on a peaceful tropical beach."
+      },
+      {
+        "title": "Marine Life",
+        "image": "/images/hanifaru-marine.jpg",
+        "description": "Discover amazing marine life around the island."
+      },
+      {
+        "title": "Sunset",
+        "image": "/images/hanifaru-sunset.jpg",
+        "description": "Enjoy unforgettable sunset views over the ocean."
+      }
+    ],
+    "spa": [
+      "Spa Massage",
+      "Yoga",
+      "Meditation",
+      "Wellness Treatments"
+    ],
+    "howToReach": "Hanifaru Island can be reached through scheduled domestic or resort-arranged transfers depending on the location.",
+    "location": "Baa Atoll",
+    "type": "Private Island",
+    "accommodation": "Beach & Water Villas",
+    "transfer": "Domestic Flight / Boat"
+  },
+
+  {
+    "id": "hulhumale",
+    "name": "Hulhumale Island",
+    "title": "Hulhumale Island",
+    "image": "/images/hulhumale.jpg",
+    "rating": "4.4",
+    "reviews": "6543",
+    "about": "Hulhumale Island combines beautiful beaches, modern surroundings and convenient access to Malé and Velana International Airport.",
+    "stays": [
+      {
+        "title": "Beach Hotel",
+        "image": "/images/hulhumale-hotel.jpg",
+        "description": "Stay close to the beach with comfortable modern facilities."
+      },
+      {
+        "title": "Ocean View Room",
+        "image": "/images/hulhumale-room.jpg",
+        "description": "Enjoy beautiful views of the Indian Ocean."
+      },
+      {
+        "title": "Luxury Stay",
+        "image": "/images/hulhumale-luxury.jpg",
+        "description": "Experience modern accommodation with premium facilities."
+      }
+    ],
+    "dining": [
+      "Local Restaurants",
+      "Seafood Restaurants",
+      "Cafés",
+      "Beachside Dining"
+    ],
+    "activities": [
+      "Beach Walk",
+      "Snorkeling",
+      "Water Sports",
+      "City Exploration",
+      "Cycling",
+      "Sunset Viewing"
+    ],
+    "highlights": [
+      {
+        "title": "Beach",
+        "image": "/images/hulhumale-beach.jpg",
+        "description": "Enjoy the long sandy beach and beautiful ocean views."
+      },
+      {
+        "title": "Lagoon",
+        "image": "/images/hulhumale-lagoon.jpg",
+        "description": "Relax beside the calm blue waters."
+      },
+      {
+        "title": "Modern Island",
+        "image": "/images/hulhumale-city.jpg",
+        "description": "Explore modern streets, cafés and local attractions."
+      },
+      {
+        "title": "Sunset",
+        "image": "/images/hulhumale-sunset.jpg",
+        "description": "Enjoy beautiful sunset views along the beach."
+      }
+    ],
+    "spa": [
+      "Massage",
+      "Beauty Treatments",
+      "Yoga",
+      "Wellness Activities"
+    ],
+    "howToReach": "Hulhumale is located close to Velana International Airport and can be reached by road transfer.",
+    "location": "Kaafu Atoll",
+    "type": "Island City",
+    "accommodation": "Hotels & Guesthouses",
+    "transfer": "Airport Road Transfer"
+  }
+]

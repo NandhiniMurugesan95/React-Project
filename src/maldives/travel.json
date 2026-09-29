@@ -1,0 +1,776 @@
+{
+"image":[
+  {
+    "id": 1,
+    "imgSrc": "/images/travel/main.jpg",
+    "alt": "Carousel Image 1"
+    
+  }
+],
+    "ways": [
+      {
+        "id": 1,
+        "title": "By Air",
+        "icon": "✈️",
+        "image": "/images/travel/air.jpg",
+        "description": "Fly to Velana International Airport in Malé with direct and connecting flights from major cities worldwide.",
+        "buttonText": "Learn More",
+        "details": [
+      ["📍 Where you arrive", "Velana International Airport, Malé"],
+      ["🌍 From where", "Chennai, Bengaluru, Colombo, Dubai and other cities"],
+      ["⏱️ Travel time", "Depends on your departure city"],
+      ["🎯 Best for", "International travellers"],
+      ["🚤 After arrival", "Transfer to your resort by speedboat or seaplane"]
+    ]
+      },
+      {
+        "id": 2,
+        "title": "By Speedboat",
+        "icon": "🚤",
+        "image": "/images/travel/speedboat.jpg",
+        "description": "Travel between Malé and nearby islands or resorts by speedboat and enjoy a scenic sea journey.",
+        "buttonText": "Learn More",
+        "details": [
+      ["📍 Where you board", "Malé / Velana International Airport"],
+      ["🏝️ Where it goes", "Nearby resort and island destinations"],
+      ["⏱️ Travel time", "Usually around 20–90 minutes"],
+      ["🎯 Best for", "Nearby islands and resorts"],
+      ["💰 Cost", "Usually arranged by the resort"]
+    ]
+      },
+      {
+        "id": 3,
+        "title": "By Seaplane",
+        "icon": "🛩️",
+        "image": "/images/travel/seaplane.jpg",
+        "description": "Reach remote resort islands by seaplane while enjoying breathtaking aerial views of the Maldives.",
+        "buttonText": "Learn More",
+        "details": [
+      ["📍 Where you board", "Velana International Airport"],
+      ["🏝️ Where it goes", "Remote resort islands"],
+      ["⏱️ Travel time", "Usually around 15–60 minutes"],
+      ["🌅 Experience", "Beautiful aerial views of Maldivian atolls"],
+      ["☀️ Operating time", "Normally during daylight hours"]
+    ]
+      }
+    ],
+    "islands":[
+  {
+    "id": 1,
+    "name": "Speedboat",
+    "image": "/images/travel/speedboat.jpg",
+    "description": "The fastest and most convenient way to reach nearby islands and resorts.",
+    "bestFor": "Resorts & Nearby Islands",
+    "travelTime": "15 - 60 mins",
+    "details": {
+      "title": "Travel by Speedboat",
+      "content": "Speedboats are one of the most popular ways to travel between Malé and nearby local islands or resorts.",
+      "features": [
+        "Fast and convenient",
+        "Ideal for nearby islands",
+        "Available from Malé",
+        "Great for resort transfers"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Seaplane",
+    "image": "/images/travel/seaplane.jpg",
+    "description": "Enjoy breathtaking aerial views while traveling to your island resort.",
+    "bestFor": "Resorts & Scenic Experience",
+    "travelTime": "20 - 45 mins",
+    "details": {
+      "title": "Travel by Seaplane",
+      "content": "A seaplane journey gives you a beautiful aerial view of the Maldives and is an unforgettable travel experience.",
+      "features": [
+        "Amazing aerial views",
+        "Perfect for remote resorts",
+        "Scenic travel experience",
+        "Fast island transfers"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Public Ferry",
+    "image": "/images/travel/Public Ferry.jpg",
+    "description": "An affordable and authentic way to travel between local islands.",
+    "bestFor": "Budget Travelers & Locals",
+    "travelTime": "1 - 3 hrs",
+    "details": {
+      "title": "Travel by Public Ferry",
+      "content": "Public ferries are an affordable option for travelers who want to explore the Maldives like a local.",
+      "features": [
+        "Budget friendly",
+        "Best for local islands",
+        "Authentic local experience",
+        "Regular routes between selected islands"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Domestic Flight",
+    "image": "/images/travel/air.jpg",
+    "description": "Ideal for long distances and remote islands.",
+    "bestFor": "Remote Islands",
+    "travelTime": "20 - 60 mins",
+    "details": {
+      "title": "Travel by Domestic Flight",
+      "content": "Domestic flights are useful when traveling to islands that are far away from Malé.",
+      "features": [
+        "Best for distant islands",
+        "Saves travel time",
+        "Comfortable journey",
+        "Connects major domestic airports"
+      ]
+    }
+  }
+],
+
+
+  "tripDurations": [
+    {
+      "id": 2,
+      "days": "2 Days",
+      "title": "Quick Maldives Escape",
+       "price": "$250",
+      "image": "/images/travel/2days.jpg",
+       "highlights": [
+        "Relax at a beautiful resort",
+        "Enjoy beach & water activities",
+        "Taste local & seafood cuisine",
+        "Perfect short getaway"
+      ]
+    },
+    {
+       "id": 3,
+      "days": "3 Days",
+      "title": "Island Experience",
+     "price": "$350",
+      "image": "/images/travel/3days.jpg",
+      "highlights": [
+        "Snorkeling & water sports",
+        "Visit local islands & culture",
+        "Delicious Maldivian food",
+        "Sunset cruise & relaxation"
+      ]
+    },
+    {
+      "id": 4,
+      "days": "4 Days",
+      "title": "Complete Maldives Experience",
+       "price": "$480",
+      "image": "/images/travel/4days.jpg",
+      "highlights": [
+        "Resort stay & adventure",
+        "Island hopping & activities",
+        "Local experience & shopping",
+        "Perfect mix of adventure & relaxation"
+      ]
+      
+    },
+    {
+       "id": 5,
+      "days": "5 Days",
+      "title": "Ultimate Maldives Journey",
+       "price": "$650",
+      "image": "/images/travel/5days.jpg",
+       "highlights": [
+        "Explore multiple islands",
+        "Enjoy water sports & diving",
+        "Experience local culture",
+        "Relax at luxury resorts"
+      ]
+      
+    }
+  ],
+ "itineraries": {
+    "2": [
+      {
+        "day": "Day 1",
+        "title": "Arrival & Relax",
+        "image": "/images/travel/3days.jpg",
+        "activities": [
+          "Airport pickup",
+          "Speedboat transfer",
+          "Resort check-in",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "day": "Day 2",
+        "title": "Explore & Enjoy",
+        "image": "/images/travel/adventure.jpg",
+        "activities": [
+          "Snorkeling",
+          "Local island visit",
+          "Seafood dinner",
+          "Sunset experience"
+        ]
+      }
+    ],
+
+    "3": [
+      {
+        "day": "Day 1",
+        "title": "Arrival & Relax",
+        "image": "/images/travel/2days.jpg",
+        "activities": [
+          "Airport pickup & speedboat transfer",
+          "Resort check-in & relax",
+          "Beach sunset & local dinner"
+        ]
+      },
+      {
+        "day": "Day 2",
+        "title": "Adventure & Explore",
+        "image": "/images/travel/adventure.jpg",
+        "activities": [
+          "Snorkeling & water sports",
+          "Visit local island",
+          "Seafood lunch & sunset cruise"
+        ]
+      },
+      {
+        "day": "Day 3",
+        "title": "Local Island & Shopping",
+        "image": "/images/travel/shopping.jpg",
+        "activities": [
+          "Explore local island & culture",
+          "Shopping for souvenirs",
+          "Departure"
+        ]
+      }
+    ],
+
+    "4": [
+      {
+        "day": "Day 1",
+        "title": "Arrival & Resort",
+        "image": "/images/travel/2days.jpg",
+        "activities": [
+          "Airport arrival",
+          "Speedboat transfer",
+          "Resort check-in",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "day": "Day 2",
+        "title": "Ocean Adventure",
+        "image": "/images/travel/ocean.jpg",
+        "activities": [
+          "Snorkeling",
+          "Diving",
+          "Water sports",
+          "Sunset cruise"
+        ]
+      },
+      {
+        "day": "Day 3",
+        "title": "Island Experience",
+        "image": "/images/travel/experience.jpg",
+        "activities": [
+          "Local island visit",
+          "Traditional food",
+          "Shopping",
+          "Cultural experience"
+        ]
+      },
+      {
+        "day": "Day 4",
+        "title": "Relax & Departure",
+        "image": "/images/travel/air.jpg",
+        "activities": [
+          "Resort breakfast",
+          "Beach relaxation",
+          "Final shopping",
+          "Airport transfer"
+        ]
+      }
+    ],
+
+    "5": [
+      {
+        "day": "Day 1",
+        "title": "Arrival & Relax",
+        "image": "/images/travel/2days.jpg",
+        "activities": [
+          "Airport pickup",
+          "Resort check-in",
+          "Beach relaxation",
+          "Sunset dinner"
+        ]
+      },
+      {
+        "day": "Day 2",
+        "title": "Water Adventure",
+        "image": "/images/travel/adventure.jpg",
+        "activities": [
+          "Scuba diving",
+          "Snorkeling",
+          "Water sports",
+          "Dolphin watching"
+        ]
+      },
+      {
+        "day": "Day 3",
+        "title": "Island Hopping",
+        "image": "/images/travel/trip.jpg",
+        "activities": [
+          "Visit multiple islands",
+          "Local island experience",
+          "Traditional Maldivian food",
+          "Sunset cruise"
+        ]
+      },
+      {
+        "day": "Day 4",
+        "title": "Culture & Shopping",
+        "image": "/images/travel/shopping.jpg",
+        "activities": [
+          "Explore Male",
+          "Visit local markets",
+          "Buy souvenirs",
+          "Try local cuisine"
+        ]
+      },
+      {
+        "day": "Day 5",
+        "title": "Relax & Departure",
+        "image": "/images/travel/air.jpg",
+        "activities": [
+          "Resort breakfast",
+          "Final beach time",
+          "Check-out",
+          "Airport transfer"
+        ]
+      }
+    ]
+  },
+
+  "quickGuide": [
+    {
+      "id": "stay",
+      "icon": "🏨",
+      "title": "Where to Stay",
+      "description": "Best resorts, hotels & guesthouses"
+    },
+    {
+      "id": "eat",
+      "icon": "🍽️",
+      "title": "Where to Eat",
+      "description": "Local cuisine, seafood, halal & vegetarian"
+    },
+    {
+      "id": "transport",
+      "icon": "🚤",
+      "title": "Getting Around",
+      "description": "Speedboat, ferry, seaplane & flight"
+    },
+    {
+      "id": "things",
+      "icon": "🤿",
+      "title": "Things to Do",
+      "description": "Snorkeling, diving & island hopping"
+    },
+    {
+      "id": "cost",
+      "icon": "💰",
+      "title": "Travel Cost",
+      "description": "Flight, stay, food & transport cost"
+    },
+    {
+      "id": "shopping",
+      "icon": "🛍️",
+      "title": "Shopping Guide",
+      "description": "Best places to shop in Maldives"
+    },
+    {
+      "id": "tips",
+      "icon": "🌴",
+      "title": "Travel Tips",
+      "description": "Essential tips for a smooth trip"
+    }
+  ],
+
+  "stay": [
+    {
+      "title": "Luxury Resorts",
+      "image": "/images/travel/luxury.jpg",
+      "description": "Overwater villas, private beaches and world-class amenities.",
+      "price": "From $250 / night"
+    },
+    {
+      "title": "Guesthouses",
+      "image": "/images/travel/Guesthouses.jpg",
+      "description": "Comfortable stays on local islands with friendly vibes.",
+      "price": "From $60 / night"
+    },
+    {
+      "title": "Budget Hotels",
+      "image": "/images/travel/Hotels.jpg",
+      "description": "Affordable and clean stays for budget travellers.",
+      "price": "From $40 / night"
+    }
+  ],
+
+  "eat": [
+    {
+      "title": "Local Cuisine",
+      "image": "/images/travel/Local_Cuisine.jpg",
+      "description": "Try traditional Maldivian dishes full of flavours."
+    },
+    {
+      "title": "Seafood & Grill",
+      "image": "/images/travel/Seafood.jpg",
+      "description": "Fresh tuna, lobster and live grill specials."
+    },
+    {
+      "title": "Vegetarian & Halal",
+      "image": "/images/travel/veg.jpg",
+      "description": "Plenty of vegetarian and halal food options."
+    }
+  ],
+
+  "transport": [
+    {
+      "title": "Speedboat",
+      "image": "/images/travel/speedboat.jpg",
+      "description": "Fast and convenient island transfers.",
+      "time": "15 - 60 mins"
+    },
+    {
+      "title": "Seaplane",
+      "image": "/images/travel/seaplane.jpg",
+      "description": "Scenic flights with breathtaking views.",
+      "time": "20 - 45 mins"
+    },
+    {
+      "title": "Public Ferry",
+      "image": "/images/travel/Public Ferry.jpg",
+      "description": "Budget-friendly way to travel like a local.",
+      "time": "1 - 3 hrs"
+    }
+  ],
+
+  "things": [
+    {
+      "title": "Snorkeling",
+      "image": "/images/travel/ocean.jpg",
+      "description": "Explore colourful coral reefs and marine life."
+    },
+    {
+      "title": "Diving",
+      "image": "/images/travel/Diving.jpg",
+      "description": "Discover the underwater world of Maldives."
+    },
+    {
+      "title": "Island Hopping",
+      "image": "/images/travel/experience.jpg",
+      "description": "Explore different islands and local communities."
+    }
+  ],
+
+  "cost": [
+    {
+      "title": "Flights",
+      "description": "International and domestic flight expenses."
+    },
+    {
+      "title": "Accommodation",
+      "description": "Resort, hotel and guesthouse prices."
+    },
+    {
+      "title": "Food",
+      "description": "Daily food and dining expenses."
+    },
+    {
+      "title": "Transport",
+      "description": "Speedboat, ferry and seaplane costs."
+    }
+  ],
+
+  "tips": [
+    "Book your stay and transfers in advance",
+    "Carry sunscreen, sunglasses and a hat",
+    "Respect local customs and traditions",
+    "Keep cash for local islands",
+    "Stay hydrated and enjoy your trip"
+  ],
+
+  "facts": [
+    {
+      "title": "Best Time to Visit",
+      "value": "November to April",
+      "description": "Best weather & clear skies",
+      "icon": "☀️"
+    },
+    {
+      "title": "Visa Information",
+      "value": "Free visa for 30 days",
+      "description": "For most nationalities",
+      "icon": "🛂"
+    },
+    {
+      "title": "Currency",
+      "value": "Maldivian Rufiyaa",
+      "description": "USD widely accepted",
+      "icon": "💵"
+    },
+    {
+      "title": "Language",
+      "value": "Dhivehi",
+      "description": "English widely spoken",
+      "icon": "🗣️"
+    },
+    {
+      "title": "Emergency",
+      "value": "Tourist Police: 119",
+      "description": "Ambulance: 102",
+      "icon": "🚨"
+    }
+  ],
+  "travel":[
+  {
+    "id": 1,
+    "title": "Flight",
+    "icon": "✈️",
+    "price": "$600 - $1,200",
+    "unit": "per person (round trip)",
+    "description": "Flight prices vary depending on the season and your departure country."
+  },
+  {
+    "id": 2,
+    "title": "Transfer",
+    "icon": "🚤",
+    "price": "$30 - $300",
+    "unit": "per person",
+    "description": "Speedboat, seaplane or domestic flight depending on your island."
+  },
+  {
+    "id": 3,
+    "title": "Stay",
+    "icon": "🏨",
+    "price": "$100 - $1,000+",
+    "unit": "per night",
+    "description": "Choose from budget hotels, guesthouses, beach villas or luxury resorts."
+  },
+  {
+    "id": 4,
+    "title": "Food",
+    "icon": "🍽️",
+    "price": "$20 - $100",
+    "unit": "per day",
+    "description": "Local food is affordable, while resort dining can cost more."
+  },
+  {
+    "id": 5,
+    "title": "Activities",
+    "icon": "🤿",
+    "price": "$50 - $300",
+    "unit": "per activity",
+    "description": "Enjoy snorkeling, diving, dolphin cruises and other water activities."
+  }
+],
+"season":[
+  {
+    "id": "peak-season",
+    "title": "PEAK SEASON (DRY)",
+    "months": "December - April",
+    "badge": "Best Weather",
+    "badgeColor": "bg-amber-100 text-amber-800 border-amber-300",
+    "headerBg": "bg-teal-600",
+    "highlights": "Best Weather Conditions",
+    "image": "/images/travel/ocean.jpg",
+    "points": [
+      "Sunshine & clear blue skies",
+      "Calm, turquoise waters ideal for water sports",
+      "Excellent visibility for diving & snorkeling",
+      "Perfect for beach hopping & island tours",
+      "Highest accommodation prices & more crowds"
+    ]
+  },
+  {
+    "id": "shoulder-season",
+    "title": "SHOULDER SEASON",
+    "months": "May & November",
+    "badge": "Great Value",
+    "badgeColor": "bg-blue-100 text-blue-800 border-blue-300",
+    "headerBg": "bg-sky-600",
+    "highlights": "Good Weather, Mixed Days",
+    "image":"/images/travel/boating.jpg",
+    "points": [
+      "Transition months with a mix of sun & quick rain showers",
+      "Lower prices than peak season, fewer tourists",
+      "Good chance of spotting whale sharks & manta rays",
+      "Still plenty of sunshine between occasional rains",
+      "Balanced weather and budget options"
+    ]
+  },
+  {
+    "id": "off-peak-season",
+    "title": "OFF-PEAK SEASON (WET)",
+    "months": "June - October",
+    "badge": "Best Budget & Surfing",
+    "badgeColor": "bg-indigo-100 text-indigo-800 border-indigo-300",
+    "headerBg": "bg-slate-700",
+    "highlights": "Monsoon Season, Lower Prices",
+    "image": "/images/travel/surfing.jpg",
+    "points": [
+      "More rain showers & higher humidity",
+      "Choppier waters, potential for rough seas",
+      "Lowest prices for resort luxury villas & flights",
+      "Best season for surfing (larger waves on outer reefs)",
+      "Lush, green island landscape after rains"
+    ]
+  }
+],
+
+  "travelEssentials": {
+    
+    "items": [
+      {
+        "title": "Passport & Travel Documents",
+        "image": "/images/travel/passport.jpg",
+        "points": [
+          "Valid passport",
+          "Visa if required",
+          "Flight tickets",
+          "Hotel bookings",
+          "Travel insurance"
+        ]
+      },
+      {
+        "title": "Currency / Cards",
+        "image": "/images/travel/currency.jpg",
+        "points": [
+          "US Dollars widely accepted",
+          "Maldivian Rufiyaa",
+          "Credit / Debit cards",
+          "Cash for small expenses"
+        ]
+      },
+      {
+        "title": "Swimwear & Beachwear",
+        "image": "/images/travel/swimwear.jpg",
+        "points": [
+          "Swimwear",
+          "Light & breathable clothes",
+          "Beach cover-up",
+          "Comfortable footwear"
+        ]
+      },
+      {
+        "title": "Sunscreen & Sunglasses",
+        "image": "/images/travel/sunscreen.jpg",
+        "points": [
+          "SPF 50+ sunscreen",
+          "UV protection sunglasses",
+          "Lip balm with SPF",
+          "Hat / cap"
+        ]
+      },
+      {
+        "title": "Medicines & Personal Items",
+        "image": "/images/travel/medicine.jpg",
+        "points": [
+          "Personal medicines",
+          "Basic first-aid kit",
+          "Insect repellent",
+          "Personal care products"
+        ]
+      },
+      {
+        "title": "Waterproof Bag",
+        "image": "/images/travel/waterproof-bag.jpg",
+        "points": [
+          "For beach activities",
+          "Protects your valuables",
+          "Keeps your phone safe"
+        ]
+      }
+    ]
+  
+  },
+  "travelRequirements": {
+    "items": [
+      {
+        "title": "Visa / Entry Requirements",
+        "image": "/images/travel/pasprt.png",
+        "points": [
+          "Check visa requirements",
+          "Valid passport",
+          "Return / onward ticket",
+          "Proof of accommodation"
+        ]
+      },
+      {
+        "title": "Local Currency",
+        "image": "/images/travel/currncy.png",
+        "points": [
+          "Maldivian Rufiyaa (MVR)",
+          "US Dollars widely accepted",
+          "Cards accepted at resorts",
+          "ATMs available in Male"
+        ]
+      },
+      {
+        "title": "Language",
+        "image": "/images/travel/chat.png",
+        "points": [
+          "Dhivehi is the local language",
+          "English widely spoken",
+          "Basic greetings are helpful"
+        ]
+      },
+      {
+        "title": "Dress Code",
+        "image": "/images/travel/dress.png",
+        "points": [
+          "Modest clothing in public places",
+          "Swimwear at beaches",
+          "Cover up when visiting local islands"
+        ]
+      },
+      {
+        "title": "Local Customs",
+        "image": "/images/travel/local_1.png",
+        "points": [
+          "Respect local culture",
+          "Follow local traditions",
+          "Avoid public displays of affection",
+          "Do not bring alcohol to local islands"
+        ]
+      },
+      {
+        "title": "Safety Tips",
+        "image": "/images/travel/safety.png",
+        "points": [
+          "Keep belongings safe",
+          "Follow water safety rules",
+          "Use registered taxis and boats"
+        ]
+      },
+      {
+        "title": "Emergency Contacts",
+        "image": "/images/travel/phone.png",
+        "points": [
+          "Police: 119",
+          "Ambulance: 102",
+          "Fire: 118",
+          "Tourist Helpline: +960 332 2111"
+        ]
+      }
+    ]
+  }
+}
+
+  
+
+  
+   
+      
+

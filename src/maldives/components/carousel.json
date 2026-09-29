@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "/images/carousel/carousel_1.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Welcome to Our Website"
+  },
+  {
+    "id": 2,
+    "imgSrc": "/images/carousel/carousel_2.jpg",
+    "alt": "Carousel Image 2",
+    "title": "Explore the World"
+  },
+  {
+    "id": 3,
+    "imgSrc": "/images/carousel/carousel_3.jpg",
+    "alt": "Carousel Image 3",
+    "title": "Explore the World"
+  },
+  {
+    "id": 4,
+    "imgSrc": "/images/carousel/carousel_4.jpg",
+    "alt": "Carousel Image 4",
+    "title": "Explore the World"
+  },
+  {
+    "id": 5,
+    "imgSrc": "/images/carousel/carousel_5.jpg",
+    "alt": "Carousel Image 5",
+    "title": "Explore the World"
+  }
+]

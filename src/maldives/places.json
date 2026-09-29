@@ -1,0 +1,422 @@
+{
+"carouselData":[
+  {
+    "id": 1,
+    "imgSrc": "/images/place/island1.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Welcome to Our Website"
+  },
+  {
+    "id": 2,
+    "imgSrc": "/images/place/resort1.jpg",
+    "alt": "Carousel Image 2",
+    "title": "Explore the World"
+  },
+  {
+    "id": 3,
+    "imgSrc": "/images/place/restuarant1.jpg",
+    "alt": "Carousel Image 3",
+    "title": "Explore the World"
+  }
+],
+"gridData":[
+  {
+    "id": 1,
+    "image": "/images/place/aarah.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Aarah",
+    "rating":4.6,
+    "reviewCount":223,
+    "circles":[1,1,1,1]
+  },
+  {
+    "id": 2,
+    "image": "/images/place/biyadoo.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Biyadoo Island",
+    "rating":3.6,
+    "reviewCount":4578,
+    "circles":[1,1,1]
+  },
+  {
+    "id": 3,
+    "image": "/images/place/ambara.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Ambara Island",
+    "rating":4.8,
+    "reviewCount":468,
+    "circles":[1,1,1,1]
+  },
+  {
+    "id": 4,
+    "image": "/images/place/fotteyo.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Fotteyo Island",
+    "rating":3.9,
+    "reviewCount":789,
+    "circles":[1,1,1,1]
+  },
+  {
+    "id": 5,
+    "image": "/images/place/hanifaru.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Hanifaru Island",
+    "rating":3.8,
+    "reviewCount":654,
+    "circles":[1,1,1]
+  },
+  {
+    "id": 6,
+    "image": "/images/place/hulhumale.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Hulhumale Island",
+    "rating":4.4,
+    "reviewCount":6543,
+    "circles":[1,1,1,1]
+  }
+],
+"gridDataPublic":[
+  {
+    "id": 1,
+    "image": "/images/place/maafushi.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Maafushi",
+    "rating":4.7,
+    "reviewCount":9087,
+    "circles":[1,1,1,1]
+  },
+  {
+    "id": 2,
+    "image": "/images/place/Dhiffushi.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Dhiffushi ",
+    "rating":4.5,
+    "reviewCount":1234,
+    "circles":[1,1,1,1]
+  },
+  {
+    "id": 3,
+    "image": "/images/place/Thulusdhoo.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Thulusdhoo",
+    "rating":4.1,
+    "reviewCount":987,
+    "circles":[1,1,1,1]
+  }
+],
+
+  "categories": {
+    "Beach Bungalows": [
+      {
+        "id": 1,
+        "name": "Kia Ohra",
+        "image": "/images/place/aarah.jpg",
+	"stars": 5,
+        "description": "Wake up to the sound of waves in this beautiful beachfront bungalow with a private terrace and direct beach access.",
+	"location": "Kia Ohra, Maldive Islands - 58.0 km to center",
+        "price": 320,
+        "guests": 2,
+        "size": "65 m²",
+        "bed": "1 King Bed",
+        "amenities": [
+          "Private Beach Access",
+          "Outdoor Terrace",
+          "Air Conditioning",
+          "Flat-screen TV",
+          "Mini Bar",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sand Terrace",
+	"stars": 4,
+        "image": "/images/place/biyadoo.jpg",
+        "description": "A peaceful tropical bungalow surrounded by palm trees with beautiful ocean views.",
+	"location": "Sand Terrace, Maldive Islands - 58.0 km to center",
+        "price": 280,
+        "guests": 2,
+        "size": "60 m²",
+        "bed": "1 King Bed",
+        "amenities": [
+          "Beach Access",
+          "Private Terrace",
+          "Air Conditioning",
+          "Free Wi-Fi",
+          "Mini Bar"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Le tikehau",
+	"stars": 4,
+        "image": "/images/place/ambara.jpg",
+        "description": "Enjoy crystal-clear lagoon views and a relaxing tropical stay in this comfortable bungalow.",
+ 	"location": "Le tikehau, Maldive Islands - 58.0 km to center",
+        "price": 300,
+        "guests": 2,
+        "size": "62 m²",
+        "bed": "1 King Bed",
+        "amenities": [
+          "Lagoon View",
+          "Private Terrace",
+          "Air Conditioning",
+          "Free Wi-Fi",
+          "Coffee & Tea Maker"
+        ]
+      }
+         ],
+        
+
+    "Overwater Villas": [
+      {
+        "id": 4,
+        "name": "Anantara",
+	"stars": 5,
+        "image": "/images/place/Anantara.jpg",
+        "description": "Luxury overwater villa with stunning ocean views and a private deck.",
+	"location": "Anantara, Maldive Islands - 50.0 km to center",
+        "price": 520,
+        "guests": 2,
+        "size": "90 m²",
+        "bed": "1 King Bed",
+        "amenities": [
+          "Private Deck",
+          "Ocean View",
+          "Private Pool",
+          "Free Wi-Fi",
+          "Mini Bar"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hideaway",
+ 	"stars": 4,
+        "image": "/images/place/hideaway.jpg",
+        "description": "Experience the beauty of the Maldives from your own overwater villa.",
+	 "location": "Hideaway, Maldive Islands - 58.0 km to center",
+        "price": 580,
+        "guests": 2,
+        "size": "95 m²",
+        "bed": "1 King Bed",
+        "amenities": [
+          "Ocean View",
+          "Private Pool",
+          "Sun Deck",
+          "Air Conditioning",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Relish",
+ 	"stars": 5,
+        "image": "/images/place/Relish.jpg",
+        "description":  "Water Villas with Private Pools, Seaplane and Speedboat Transfers",
+	 "location": "Hideaway, Maldive Islands - 58.0 km to center",
+        "price": 580,
+        "guests": 2,
+        "size": "95 m²",
+        "bed": "2 King Bed",
+        "amenities": [
+          "Ocean View",
+            "Sun Deck",
+          "Air Conditioning",
+          "Free Wi-Fi"
+        ]
+      }
+    ],
+
+    "Undersea Restaurants": [
+      {
+        "id": 7,
+        "name": "Corad",
+        "stars": 5,
+	"image": "/images/place/corad.jpg",
+        "description": "Enjoy a unique dining experience surrounded by the underwater world of the Maldives.",
+	"location": "Corad, Maldive Islands - 50.0 km to center",
+        "price": 180,
+        "guests": 2,
+        "size": "Undersea Dining",
+        "bed": "Dining Experience",
+        "amenities": [
+          "Underwater View",
+          "Seafood Dining",
+          "Fine Dining",
+          "Ocean View"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Muraka",
+ 	"stars": 5,
+        "image": "/images/place/muraka.jpg",
+        "description": "A memorable underwater dining experience with beautiful coral reef views.",
+	"location": "Muraka, Maldive Islands - 58.0 km to center",
+        "price": 160,
+        "guests": 2,
+        "size": "Undersea Dining",
+        "bed": "Dining Experience",
+        "amenities": [
+          "Coral Reef View",
+          "Seafood",
+          "Fine Dining",
+          "Ocean View"
+        ]
+      },
+	{
+        "id": 9,
+        "name": "Mamutaa",
+	 "stars": 5,
+        "image": "/images/place/mamutaa.jpg",
+        "description": "underWater Villas with  Seaplane and Speedboat Transfers",
+	"location": "Muraka, Maldive Islands - 58.0 km to center",
+        "price": 160,
+        "guests": 2,
+        "size": "Undersea Dining",
+        "bed": "Dining Experience",
+        "amenities": [
+          "Coral Reef View",
+          "Seafood",
+          "Fine Dining",
+          "Ocean View"
+        ]
+      }
+
+    ],
+
+    "Guest Houses": [
+      {
+        "id": 10,
+        "name": "royal",
+	"stars": 4,
+        "image": "/images/place/royl villa.jpg",
+        "description": "A comfortable and affordable guest house for travelers who want to experience local island life.",
+        "price": 90,
+        "guests": 2,
+        "size": "35 m²",
+        "bed": "1 Double Bed",
+        "amenities": [
+          "Free Wi-Fi",
+          "Breakfast",
+          "Air Conditioning",
+          "Island Access"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "valli",
+	"stars": 5,
+	 "image": "/images/place/valli.jpg",
+        "description": "Stay close to nature in this cozy guest house surrounded by tropical gardens.",
+ 	"location": "valli, Maldive Islands - 50.0 km to center",
+        "price": 110,
+        "guests": 2,
+        "size": "40 m²",
+        "bed": "1 Double Bed",
+        "amenities": [
+          "Garden View",
+          "Breakfast",
+          "Free Wi-Fi",
+          "Air Conditioning"
+        ]
+      },
+	{
+        "id": 12,
+        "name": "kinan",
+	"stars": 4,
+        "image": "/images/place/kinan.jpg",
+        "description": "Water Villas with Private Pools, Seaplane and Speedboat Transfers",
+ 	"location": "valli, Maldive Islands - 50.0 km to center",
+        "price": 110,
+        "guests": 2,
+        "size": "40 m²",
+        "bed": "1 Double Bed",
+        "amenities": [
+          "Garden View",
+          "Breakfast",
+          "Free Wi-Fi",
+          "Air Conditioning"
+        ]
+      }
+
+    ]
+  },
+
+"underwater": [
+    {
+      "id": 1,
+      "image": "/images/place/Bakura.jpg",
+      "title": "BOKKURA",
+      "subtitle": "Taj Coral Reef Resort & Spa, Maldives",
+      "description": "Bokkura is a trendy, modern restaurant in Maldives that offers a delectable fusion of Continental, Indian, Pan-Asian, Sri Lanka...",
+      "cuisine": "Multi-Cuisine",
+      "email": "tajcoralreef@tajhotels.com",
+      "phone": "+960 6641948",
+      "bookingText": "Call Us To Book A Table",
+      "moreLink": "#"
+    },
+    {
+      "id": 2,
+      "image": "/images/place/ithaa.jpg",
+      "title": "ITHAA",
+      "subtitle": "Taj Coral Reef Resort & Spa, Maldives",
+      "description": "Bokkura is a trendy, modern restaurant in Maldives that offers a delectable fusion of Continental, Indian, Pan-Asian, Sri Lanka...",
+      "cuisine": "Multi-Cuisine",
+      "email": "tajcoralreef@tajhotels.com",
+      "phone": "+960 6641948",
+      "bookingText": "Call Us To Book A Table",
+      "moreLink": "#"
+    },
+    {
+      "id": 3,
+      "image": "/images/place/subsix.jpg",
+      "title": "SUBSIX",
+      "subtitle": "Taj Coral Reef Resort & Spa, Maldives",
+      "description": "Bokkura is a trendy, modern restaurant in Maldives that offers a delectable fusion of Continental, Indian, Pan-Asian, Sri Lanka...",
+      "cuisine": "Multi-Cuisine",
+      "email": "tajcoralreef@tajhotels.com",
+      "phone": "+960 6641948",
+      "bookingText": "Call Us To Book A Table",
+      "moreLink": "#"
+    }
+  ],
+  "overwater": [
+    {
+      "id": 1,
+      "image": "/images/place/aqua.jpg",
+      "title": "AQUA",
+      "subtitle": "Taj Coral Reef Resort & Spa, Maldives",
+      "description": "Aqua is a trendy, modern restaurant in Maldives that offers a delectable fusion of Continental, Indian, Pan-Asian, Sri Lanka...",
+      "cuisine": "Multi-Cuisine",
+      "email": "tajcoralreef@tajhotels.com",
+      "phone": "+960 6641948",
+      "bookingText": "Call Us To Book A Table",
+      "moreLink": "#"
+    },
+    {
+      "id": 2,
+      "image": "/images/place/heritance.jpg",
+      "title": "HERITANCE",
+      "subtitle": "Taj Coral Reef Resort & Spa, Maldives",
+      "description": "Heritance is a trendy, modern restaurant in Maldives that offers a delectable fusion of Continental, Indian, Pan-Asian, Sri Lanka...",
+      "cuisine": "Multi-Cuisine",
+      "email": "tajcoralreef@tajhotels.com",
+      "phone": "+960 6641948",
+      "bookingText": "Call Us To Book A Table",
+      "moreLink": "#"
+    },
+    {
+      "id": 3,
+      "image": "/images/place/madi hiya.jpg",
+      "title": "MADI HIYA",
+      "subtitle": "Taj Coral Reef Resort & Spa, Maldives",
+      "description": "Madi Hiya is a trendy, modern restaurant in Maldives that offers a delectable fusion of Continental, Indian, Pan-Asian, Sri Lanka...",
+      "cuisine": "Multi-Cuisine",
+      "email": "tajcoralreef@tajhotels.com",
+      "phone": "+960 6641948",
+      "bookingText": "Call Us To Book A Table",
+      "moreLink": "#"
+    }
+  ]
+}

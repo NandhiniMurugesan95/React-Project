@@ -1,0 +1,309 @@
+{
+"image":[
+  {
+    "id": 1,
+    "imgSrc": "/images/food/dining.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Welcome to Our Website"
+  }
+],
+
+
+    "musttry":[
+  {
+    "id": 1,
+    "name": "Mas Huni",
+    "price": "$8.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/mas_huni.jpg",
+    "description": "A traditional Maldivian breakfast made of shredded smoked tuna, coconut, onions, and chili, served with Roshi (flatbread).",
+    "tags": ["Spicy", "Seafood", "Popular"]
+  },
+  {
+    "id": 2,
+    "name": "Garudhiya",
+    "price": "$12.00",
+    "rating": "⭐⭐⭐⭐",
+    "image": "/images/food/Garudhiya.jpg",
+    "description": "A classic clear fish broth served piping hot with rice, lime, fresh chili, and onion.",
+    "tags": ["Traditional Soup", "Healthy"]
+  },
+  {
+    "id": 3,
+    "name": "Kulhi Boakibaa",
+    "price": "$6.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/kulhi_Boakibaa.jpg",
+    "description": "A savory, spicy fish cake made with smoked tuna, ground rice, grated coconut, and aromatic Maldivian spices.",
+    "tags": ["Spicy Fish Cake", "Evening Snack"]
+  },
+  {
+    "id": 4,
+    "name": "Rihaakuru",
+    "price": "$10.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Rihaakuru.jpg",
+    "description": "A thick, dark, and rich fish paste made by slow-cooking tuna for hours. Highly prized for its intense savory flavor.",
+    "tags": ["Traditional Delicacy", "Rich & Umami"]
+  }
+],
+ "streetfood":[
+  {
+    "id": 1,
+    "name": "Bajiya",
+    "price": "$34.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Bajiya.jpg",
+    "description": " The Maldivian version of a samosa. It features a crispy pastry shell filled with a savory mixture of smoked tuna, grated coconut, onions, and local spices.",
+    "tags": [ "Popular"]
+  },
+  {
+    "id": 2,
+    "name": "Gulha",
+    "price": "$87.00",
+    "rating": "⭐⭐⭐⭐",
+    "image": "/images/food/Gulha.jpg",
+    "description": " Small, deep-fried pastry balls made from wheat or cassava dough. They are stuffed with a spicy filling of tuna, coconut, lime juice, chilies, and onions.",
+    "tags": [ "Healthy"]
+  },
+  {
+    "id": 3,
+    "name": "Masroshi",
+    "price": "$5.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Masroshi.jpg",
+    "description": "A stuffed flatbread. The dough is filled with a flavorful blend of tuna and coconut spice mix, then cooked on a hot skillet until golden brown.",
+    "tags": [ "Evening Snack"]
+  },
+  {
+    "id": 4,
+    "name": "Kavaabu",
+    "price": "$19.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Kavaabu.jpg",
+    "description": "Savory fish and lentil fritters.Made by blending smoked tuna with ren lentils,ginger,chilies,and aromatic herbs,then shaped into balls or  patties and deep-fried until crisp ",
+    "tags": [ "Sea food"]
+  }
+],
+"drinks":[
+  {
+    "id": 1,
+    "name": "Bondi",
+    "price": "$3.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Bondi.jpg",
+    "description": " It is a sweet and refreshing drink consumed from the shell of the coconut, thereby delicious and photogenic as well."
+   
+  },
+  {
+    "id": 2,
+    "name": "Coconut Milk Smoothies",
+    "price": "$45.00",
+    "rating": "⭐⭐⭐⭐",
+    "image": "/images/food/Coconut.jpg",
+    "description": " With rose syrup, water, and even milk or lime added to it at times, this is the perfect drink for a hot afternoon"
+  
+  },
+  {
+    "id": 3,
+    "name": "Dhonkeyokeylu",
+    "price": "$5.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Dhonkeyokeylu.jpg",
+    "description": "A sweet, fresh, non-alcoholic or mildly fermented sap tapped directly from the flower stumps of coconut palm trees."
+  },
+  {
+    "id": 4,
+    "name": "Kurumba",
+    "price": "$12.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Kurumba.jpg",
+    "description": "Delicate flower flavor and lighter than red in color have conquered the locals' hearts."
+   
+  },
+  {
+    "id": 5,
+    "name": "Raa",
+    "price": "$43.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Raa.jpg",
+    "description": "Enjoy genuine Raa with the locals but responsibly at all times."
+    
+  },
+  {
+    "id": 6,
+    "name": "Screw Pine Juice",
+    "price": "$11.00",
+    "rating": "⭐⭐⭐⭐",
+    "image": "/images/food/pine.jpg",
+    "description": " A drink from the fruit tree of the screw-pine, this local beverage has a pungent spicy refreshing taste. It is usually sweetened or tarted up with lime for more pungency."
+   
+  },
+  {
+    "id": 7,
+    "name": "Rose",
+    "price": "$5.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/rose.jpg",
+    "description": "A stuffed flatbread. The dough is filled with a flavorful blend of tuna and coconut spice mix, then cooked on a hot skillet until golden brown."
+ 
+  },
+  {
+    "id": 8,
+    "name": "WatarMelon Juice",
+    "price": "$19.00",
+    "rating":  "⭐⭐⭐⭐",
+    "image": "/images/food/Watermelon.jpg",
+    "description":"Fresh pressed watermelon juice is a more recent addition, and enjoyed all over the islands."
+
+  }
+],
+"seafood":[
+  {
+    "id": 1,
+    "title": " Grilled Yellowfin Tuna Steaks",
+    "image": "/images/food/grilled_tuna.jpg",
+    "description": "Freshly marinated tuna steak grilled over charcoal."
+  },
+  {
+    "id": 2,
+    "title": "Maldivian Lobster Specials",
+    "image": "/images/food/lobster.jpg",
+    "description": "Exquisite reef lobster served with garlic butter."
+  },
+  {
+    "id": 3,
+    "title": "Reef Fish Barbeques",
+    "image": "/images/food/reef fish.jpg",
+    "description": "Red Snapper and Grouper marinated in local spices."
+  },
+  {
+    "id": 4,
+    "title": "Garlic Butter Prawns",
+    "image": "/images/food/prawns.jpg",
+    "description": " Fresh prawns seared in rich garlic and soy butter."
+  },
+  {
+    "id": 5,
+    "title": " Mas Riha",
+    "image": "/images/food/mas-riha.jpg",
+    "description": "AA traditional Maldivian fish curry made with fresh tuna, aromatic spices, and creamy coconut milk"
+  },
+  {
+    "id": 6,
+    "title": " Smoky Octopus Delicacies",
+    "image": "/images/food/Smoky Octopus.jpg",
+    "description": "Tender octopus tentacles charred with chili paste."
+  }
+],
+ "diningHero": [
+  {
+    "subtitle": "Taste Maldives with Confidence",
+    "title": "Vegetarian & Halal Dining Guide",
+    "description": "Discover delicious vegetarian and halal-friendly dining experiences across the Maldives, from authentic local flavors to fresh island cuisine and international favorites.",
+    "image": "/images/food/veg.jpg",
+    "buttonText": "Explore Dining Options"
+  }
+ ],
+
+  "expectations": [
+    {
+      "icon": "🌿",
+      "title": "Wide Vegetarian Choices",
+      "description": "From traditional Maldivian dishes to global cuisines, find plenty of tasty vegetarian options."
+    },
+    {
+      "icon": "☪️",
+      "title": "Halal Assurance",
+      "description": "Enjoy peace of mind with halal certified restaurants and kitchens across the islands."
+    },
+    {
+      "icon": "👨‍🍳",
+      "title": "Diverse Cuisines",
+      "description": "Savor Indian, Middle Eastern, Asian and Continental dishes prepared with authentic flavors."
+    },
+    {
+      "icon": "🍽️",
+      "title": "Resort & Local Dining",
+      "description": "Whether at luxury resorts or local cafes, delicious halal and vegetarian meals are within reach."
+    }
+  ],
+   "diningSpots": [
+    {
+      "name": "Seagull Café House",
+      "location": "Male, Maldives",
+      "image": "/images/food/seagull.jpg",
+      "type": "Vegetarian Friendly",
+      "description": "A cozy spot offering delicious vegetarian and vegan meals in a relaxed environment."
+    },
+    {
+      "name": "Sala Thai Restaurant",
+      "location": "Hulhumale, Maldives",
+      "image": "/images/food/sala Thai.jpg",
+      "type": "Halal Friendly",
+      "description": "Halal certified Thai cuisine with a variety of vegetarian dishes."
+    },
+    {
+      "name": "Sunset Lounge",
+      "location": "Maafushi Island, Maldives",
+      "image": "/images/food/Sunset Lounge.jpg",
+      "type": "Vegetarian Friendly",
+      "description": "Enjoy vegetarian friendly meals with stunning ocean views."
+    },
+    {
+      "name": "The Olive Cafe",
+      "location": "Addu City, Maldives",
+      "image": "/images/food/Olive_cafe.jpg",
+      "type": "Halal Friendly",
+      "description": "Halal friendly café offering fresh salads, mezzes and vegetarian delights."
+    }
+  ],
+  "foodCards": [
+    {
+      "title": "Local Maldivian Flavors",
+      "image": "/images/food/guide_1.jpg",
+      "description": "Taste authentic island flavors featuring fresh seafood, coconut, rice, spices, and locally inspired recipes."
+    },
+    {
+      "title": "Fresh & Tropical",
+      "image": "/images/food/guide_2.jpg",
+      "description": "Enjoy fresh coconuts, tropical fruits, refreshing juices, and locally sourced ingredients throughout your island stay."
+    },
+    {
+      "title": "Vegetarian & Halal Choices",
+      "image": "/images/food/guide_3.jpg",
+      "description": "From vegetarian dishes to halal-friendly dining, Maldives offers plenty of options for every preference."
+    }
+  ],
+   "tips": [
+    {
+      "number": "01",
+      "icon": "💬",
+      "title": "Check Ingredients",
+      "description": "If you have dietary restrictions, ask the restaurant about ingredients and preparation."
+    },
+    {
+      "number": "02",
+      "icon": "☪️",
+      "title": "Look for Halal Options",
+      "description": "Choose restaurants or resorts that clearly offer halal-friendly dining."
+    },
+    {
+      "number": "03",
+      "icon": "🍴",
+      "title": "Try Local Food",
+      "description": "Don't miss traditional Maldivian flavors such as coconut-based curries, rice dishes, and local snacks."
+    },
+    {
+      "number": "04",
+      "icon": "💧",
+      "title": "Stay Hydrated",
+      "description": "The tropical climate can be warm, so keep water with you throughout the day."
+    }
+  ]
+
+}
+
+ 
+  
+

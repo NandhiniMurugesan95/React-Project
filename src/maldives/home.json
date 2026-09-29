@@ -1,0 +1,353 @@
+{
+"home":[
+  {
+    "id": 1,
+    "imgSrc": "/images/home/home_1.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Welcome to Our Website"
+  }
+],
+"searchData":{
+  "destinations": [
+    { "id": 1, "name": "Male Atoll" },
+    { "id": 2, "name": "Maafushi Island" },
+    { "id": 3, "name": "Ari Atoll" },
+    { "id": 4, "name": "Baa Atoll" },
+    { "id": 5, "name": "Addu City" }
+  ],
+  "tripTypes": [
+    "Honeymoon & Romance",
+    "Family Friendly",
+    "Luxury & Overwater Villa",
+    "Budget & Local Island",
+    "Water Sports & Adventure"
+  ],
+  "budgetRanges": [
+    "Under $1,000",
+    "$1,000 - $2,500",
+    "$2,500 - $5,000",
+    "$5,000+"
+  ],
+  "durations": [
+    "3 Nights / 4 Days",
+    "4 Nights / 5 Days",
+    "5 Nights / 6 Days",
+    "7+ Nights"
+  ],
+  "popularTags": [
+    "Overwater Villa",
+    "All-Inclusive",
+    "Scuba Diving",
+    "Private Pool",
+    "Seaplane Transfer"
+  ]
+},
+
+
+"visitmaldives":[
+{
+  "id": 1,
+  "image": "/images/home/sharks.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Swim with sharks",
+    "description": "Experience the thrill of swimming alongside majestic sharks in the crystal-clear waters of the Maldives. Explore the underwater world and create an unforgettable ocean adventure." 
+},
+{
+  "id": 2,
+  "image": "/images/home/underwater.jpg",
+    "alt": "Carousel Image 1",
+    "title": "The Underwater Garden",
+    "description": "Dive into the vibrant underwater world of the Maldives, where colorful coral reefs, tropical fish, sea turtles, and crystal-clear waters create a magical garden beneath the ocean."
+},
+{
+  "id": 3,
+  "image": "/images/home/clearwater.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Crystal-clear water",
+    "description": "Experience the breathtaking beauty of the Maldives with crystal-clear turquoise waters, perfect for swimming, snorkeling, diving, and unforgettable ocean adventures." 
+},
+{
+  "id": 4,
+  "image": "/images/home/sand.jpg",
+    "alt": "Carousel Image 1",
+    "title": "White-Sand Beaches",
+    "description": "Relax on the Maldives’ soft, powdery white-sand beaches, surrounded by turquoise waters and peaceful tropical scenery." 
+},
+{
+  "id": 5,
+  "image": "/images/home/luxury.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Luxury Resorts",
+    "description": "Stay in world-class resorts and beautiful overwater villas, where you can enjoy breathtaking ocean views, private pools, relaxing spas, and exceptional hospitality." 
+},
+{
+  "id": 6,
+  "image": "/images/home/sunset.jpg",
+    "alt": "Carousel Image 1",
+    "title": "Breathtaking Sunsets",
+    "description": "Watch the sky glow with beautiful shades of orange, pink, and gold as the sun sets over the peaceful Indian Ocean." 
+}
+],
+"populardestinations":[
+  {
+  "id": 1,
+  "image": "/images/home/male.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Tourist Paradise",
+    "description":[
+      "✔ Capital Hub",
+      "✔ Historic Landmark",
+      "✔ Local Markets",
+      "✔ Dense Cityscape",
+      "✔ Artificial Beach "
+      ]
+},
+ {
+  "id": 2,
+  "image": "/images/home/maffushi.jpg",
+  "alt": "Carousel Image 1",
+  "title": "Budget Paradise",
+    "description":[
+      "✔ Affordable Luxury",
+      "✔ Bikini Beach",
+      "✔ Water Sports",
+      "✔ Marine Excursions",
+      "✔ Local Vibe"
+      ]
+},
+ {
+  "id": 3,
+  "image": "/images/home/ari_atoll.jpg",
+  "alt": "Carousel Image 1",
+  "title": " Diving Paradise",
+    "description":[
+      "✔ Whale, Shark spotting",
+      "✔ World-Class Diving",
+      "✔ Sea Plane Experience",
+      "✔ Island Mix",
+      "✔ Fertile Nature"
+      ]
+}
+],
+"packages":[
+  {
+    "tag": "MOST POPULAR",
+    "tagColor": "bg-purple-500",
+    "image": "/images/home/romantic.jpg",
+    "title": "Romantic Escape ❤️",
+    "duration": "4 Days / 3 Nights",
+    "price": "₹69,999",
+    "accommodation": "4★ Beach Villa",
+    "meal": "Breakfast Included",
+    "transfer": "Speedboat Transfer",
+    "highlights": [
+      "Sunset Cruise",
+      "Romantic Dinner",
+      "Couple Spa"
+    ]
+  },
+   {
+    "tag": "LUXURY",
+    "tagColor": "bg-green-500",
+   "image": "/images/home/luxry.jpg",
+    "title": "Luxury Resort ⭐",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹1,19,999",
+    "accommodation": "5★ Overwater Villa",
+    "meal": "All Inclusive",
+    "transfer": "Seaplane Transfer",
+    "highlights":[
+      "Private Pool Villa",
+      "Spa Experience",
+      "All Inclusive Meals"
+    ]
+  },
+  {
+    "tag": "ADVENTURE",
+    "tagColor": "bg-orange-500",
+    "image": "/images/home/adventure.jpg",
+    "title": "Adventure Package 🤿",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹74,999",
+    "accommodation": "4★ Island Resort",
+    "meal": "Breakfast Included",
+    "transfer": "Speedboat Transfer",
+    "highlights": [
+      "Snorkeling",
+      "Scuba Diving",
+      "Water Sports"
+    ]
+  },
+   {
+    "tag": "FAMILY FAVORITE",
+    "tagColor": "bg-blue-500",
+    "image": "/images/home/family.jpg",
+    "title": "Family Getaway 👨‍👩‍👧‍👦",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹89,999",
+    "accommodation": "Family Villa",
+    "meal": "All Inclusive",
+    "transfer": "Speedboat Transfer",
+    "highlights": [
+      "Island Excursion",
+      "Kids Activities",
+      "Water Sports"
+    ]
+  }
+],
+"thingstodo":[
+  {
+    "id": 1,
+    "image": "/images/home/scuba.jpg",
+    "alt": "Scuba Diving in Maldives",
+    "tag":"🤿",
+    "title": "Scuba Diving",
+    "description": "Explore vibrant coral reefs and discover the amazing underwater world of the Maldives."
+  },
+  {
+    "id": 2,
+    "image": "/images/home/snorkeling.jpg",
+    "alt": "Snorkeling in Maldives",
+    "tag":"🤿",
+    "title": "Snorkeling",
+    "description": "Swim through crystal-clear waters and see colorful fish, coral reefs, and marine life."
+  },
+  {
+    "id": 3,
+    "image": "/images/home/dolphin.jpg",
+    "alt": "Dolphin Cruise in Maldives",
+     "tag":"🐬",
+    "title": "Dolphin Cruise",
+    "description": "Enjoy a beautiful boat ride and watch playful dolphins swimming through the turquoise sea."
+  },
+  {
+    "id": 4,
+    "image": "/images/home/snset.jpg",
+    "alt": "Sunset Cruise in Maldives",
+    "tag":"🌅 ",
+    "title": "Sunset Cruise",
+    "description": "Relax on the ocean while watching the sky turn golden, pink, and orange at sunset."
+  },
+  {
+    "id": 5,
+    "image": "/images/home/watersports.jpg",
+    "alt": "Water Sports in Maldives",
+    "tag":"🏄",
+    "title": "Water Sports",
+    "description": "Try exciting activities like jet skiing, parasailing, kayaking, and paddleboarding."
+  },
+  {
+    "id": 6,
+    "image": "/images/home/hopping.jpg",
+    "alt": "Island Hopping in Maldives",
+     "tag":"🏝️",
+    "title": "Island Hopping",
+    "description": "Visit different islands and experience local culture, beautiful beaches, and peaceful island life."
+  },
+  {
+    "id": 7,
+    "image": "/images/home/underdinning.jpg",
+    "alt": "Underwater Dining in Maldives",
+     "tag":"🍽️",
+    "title": "Underwater Dining",
+    "description": "Enjoy a unique dining experience surrounded by spectacular marine life beneath the ocean."
+  },
+  {
+    "id": 8,
+    "image": "/images/home/romanticdinner.jpg",
+    "alt": "Romantic Beach Dinner in Maldives",
+     "tag":"🍽️",
+    "title": "Romantic Beach Dinner",
+    "description": "Enjoy a private candlelight dinner on the beach with your loved one."
+  }
+],
+"testimonials":[
+  {
+     "id": 1,
+    "name": "Priya & Arjun",
+    "image":"/images/home/testi_1.jpg",
+    "rating": "⭐⭐⭐⭐⭐",
+    "title": "An Unforgettable Experience!",
+    "review": "Our Maldives honeymoon was absolutely magical. The overwater villa, crystal-clear ocean, romantic sunset, and beautiful resort made every moment unforgettable."
+  },
+  {
+    "id": 2,
+    "name": "Rahul & Meera",
+    "image":"/images/home/testi_2.jpg",
+    "rating": "⭐⭐⭐⭐",
+    "title": "Paradise on Earth!",
+    "review": "The Maldives truly felt like paradise. We loved the beautiful beaches, peaceful atmosphere, and amazing snorkeling experience. Everything was perfectly arranged."
+  },
+  {
+    "id": 3,
+    "name": "Karthik Family",
+    "image":"/images/home/testi_3.jpg",
+    "rating": "⭐⭐⭐⭐",
+    "title": "Perfect Family Holiday!",
+    "review": "We had an amazing family vacation in the Maldives. The resort was beautiful, the activities were exciting, and the kids enjoyed every moment of our island adventure."
+  },
+  {
+    "id": 4,
+    "name": "Ananya & Vikram",
+    "image":"/images/home/testi_4.jpg",
+    "rating": "⭐⭐⭐⭐⭐",
+    "title": "Worth Every Moment!",
+    "review": "From the luxury villa to the breathtaking ocean views, everything was beyond our expectations. The sunset cruise was definitely the highlight of our trip."
+  },
+  {
+    "id": 5,
+    "name": "Sneha & Rohit",
+    "image":"/images/home/testi_5.jpg",
+    "rating": "⭐⭐⭐⭐",
+    "title": "Amazing Adventure!",
+    "review": "Our Maldives adventure was incredible. Scuba diving, snorkeling, island hopping, and water sports made the trip exciting and memorable from beginning to end."
+  },
+  {
+    "id": 6,
+    "name": "Divya & Family",
+    "image":"/images/home/testi_6.jpg",
+    "rating": "⭐⭐⭐⭐",
+    "title": "A Beautiful Escape!",
+    "review": "The Maldives was the perfect escape from our busy routine. The turquoise water, white sandy beaches, friendly staff, and peaceful surroundings were simply wonderful."
+  }
+],
+"traveltips":[
+  {
+    "id": 1,
+    "icon": "🛂",
+    "title": "Visa & Entry",
+    "description": "Most tourists can get a visa on arrival for up to 30 days. Keep your passport and return ticket ready."
+  },
+  {
+    "id": 2,
+    "icon": "☀️",
+    "title": "Best Time to Visit",
+    "description": "The best time to visit Maldives is from November to April when the weather is sunny and pleasant."
+  },
+  {
+    "id": 3,
+    "icon": "💳",
+    "title": "Currency & Payments",
+    "description": "The local currency is Maldivian Rufiyaa (MVR). USD and credit cards are widely accepted in resorts."
+  },
+  {
+    "id": 4,
+    "icon": "👕",
+    "title": "What to Wear",
+    "description": "Pack light, breathable clothes, swimwear, sunglasses, and don't forget your sunscreen."
+  },
+  {
+    "id": 5,
+    "icon": "🚤",
+    "title": "Getting Around",
+    "description": "Speedboats and seaplanes are the main ways to travel between islands and resorts."
+  },
+  {
+    "id": 6,
+    "icon": "🤿",
+    "title": "Things to Pack",
+    "description": "Bring sunscreen, snorkeling gear, a waterproof bag, comfortable footwear, and your camera."
+  }
+]
+
+}
