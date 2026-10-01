@@ -233,7 +233,7 @@ function MainImage({ images }) {
                <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white px-4 z-10">
                  
               
-                 <h1 className="text-4xl sm:text-6xl md:text-5xl font-serif font-extrabold tracking-widest drop-shadow-lg uppercase mb-2 mt-40">
+                 <h1 className="text-3xl sm:text-5xl md:text-4xl font-serif font-extrabold tracking-widest drop-shadow-lg uppercase mb-2 mt-40">
                    Book Your Heaven 
                  </h1>
          
