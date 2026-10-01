@@ -36,7 +36,7 @@ function MainImage({ images }) {
                  </h1>
          
                
-                 <p className="text-2xl sm:text-2xl md:text-3xl font-serif italic text-amber-100 drop-shadow-md mb-8 md:mx-10">
+                 <p className="text-xl sm:text-xl md:text-3xl font-serif italic text-amber-100 drop-shadow-md mb-8 md:mx-10">
                    Savor the authentic taste of Maldives with fresh seafood, aromatic spices, and delicious traditional island flavors.
                  </p>
          
