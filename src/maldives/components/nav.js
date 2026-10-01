@@ -34,7 +34,7 @@ function Navbar() {
             <img
               src="/images/loco_3.png"
               alt="logo"
-              className="h-10 w-18 md:h-12 scale-200 md:scale-250 md:origin-left  object-contain"
+              className="h-10 w-15 md:h-12 scale-200 md:scale-250 md:origin-left  object-contain"
             />
           </Link>
         </div>
