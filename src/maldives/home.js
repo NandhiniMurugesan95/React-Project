@@ -295,7 +295,7 @@ function CarouselSection({ images }) {
 
     <div  className="relative  w-full ">
 
-      <p className="text-5xl font-sherif italic text-center  center-justify text-amber-900 ">Popular Destinations</p><br />
+      <p className="text-4xl font-sherif italic text-center  center-justify text-amber-900 ">Popular Destinations</p><br />
       
       {/* 2. Swiper Carousel */}
       <Swiper
