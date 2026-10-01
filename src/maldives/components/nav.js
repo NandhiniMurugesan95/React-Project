@@ -32,7 +32,7 @@ function Navbar() {
         <div className="flex items-center justify-between">
           <Link to="/">
             <img
-              src="/images/loco_3.PNG"
+              src="/images/loco_3.png"
               alt="logo"
               className="h-10 w-auto md:h-12 scale-200 md:scale-250 md:origin-left  object-contain"
             />
