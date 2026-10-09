@@ -160,7 +160,7 @@ function StayAccommodation({ categories }) {
     useState(false);
 
   return (
-    <section className="py-16 bg-gray-50 -mt-50">
+    <section className="py-16 bg-gray-50 md:-mt-50">
 
       <div className="text-center mb-10">
 
